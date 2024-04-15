@@ -24,4 +24,4 @@ API Reference
 For more information about the API used in this project, refer to the API Documentation.
 
 Contributors
-Your Name
+Tejasvini Belsare
