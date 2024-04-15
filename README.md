@@ -11,7 +11,7 @@ HTML: Used for structuring the webpage.
 CSS: Utilized for styling and layout.
 JavaScript: Implemented for dynamic functionality, including API fetching and currency conversion.
 API Integration
-This project integrates with a third-party API to fetch real-time exchange rates. The API used for this project is [INSERT API NAME HERE]. Ensure to obtain an API key and replace it in the code before use.
+This project integrates with a third-party API to fetch real-time exchange rates. The API used for this project is https://open.er-api.com/v6/latest. Ensure to obtain an API key and replace it in the code before use.
 
 Usage
 To use the currency converter:
